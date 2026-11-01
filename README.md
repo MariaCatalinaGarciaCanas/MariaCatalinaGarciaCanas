@@ -12,7 +12,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/MariaCatalinaGarciaCanas">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=880&lines=María+Catalina+García+Cañas;Analytics+Engineer+%26+Data+Consultant;Snowflake+%2F+Microsoft+Fabric+%2F+Power+BI;From+physical+systems+to+cloud+data+stacks" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=880&lines=Mar%C3%ADa+Catalina+Garc%C3%ADa+Ca%C3%B1as;Analytics+Engineer+%26+Data+Consultant;Snowflake+%2F+Microsoft+Fabric+%2F+Power+BI;From+physical+systems+to+cloud+data+stacks" alt="typing banner">
 </a>
 
 <br>
