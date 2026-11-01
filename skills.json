@@ -1,0 +1,38 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    {
+      "label": "SQL / Query Tuning",
+      "value": 85
+    },
+    {
+      "label": "Data Modeling",
+      "value": 82
+    },
+    {
+      "label": "Snowflake",
+      "value": 80
+    },
+    {
+      "label": "Power BI / DAX",
+      "value": 85
+    },
+    {
+      "label": "Microsoft Fabric",
+      "value": 72
+    },
+    {
+      "label": "Python Data",
+      "value": 72
+    },
+    {
+      "label": "Pipelines / ADF",
+      "value": 65
+    },
+    {
+      "label": "Applied ML",
+      "value": 55
+    }
+  ]
+}

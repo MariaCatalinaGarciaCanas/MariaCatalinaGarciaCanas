@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "-Inmobiliaria-Properati-",
+      "description": "Análisis exploratorio y limpieza de datos inmobiliarios de Properati, con un modelo de regresión que predice el precio por metro cuadrado."
+    },
+    {
+      "repo": "Limpieza_de_datos",
+      "description": "Análisis y limpieza de datos del sector inmobiliario."
+    },
+    {
+      "repo": "Regresion-bicicletas",
+      "description": "Modelo de regresión aplicado a datos de bicicletas."
+    },
+    {
+      "repo": "Clasificacion-Cancer-KNN",
+      "description": "Clasificación de cáncer con K-Nearest Neighbors (KNN)."
+    }
+  ]
+}
